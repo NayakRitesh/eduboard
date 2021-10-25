@@ -5,4 +5,4 @@ from django.shortcuts import render
 
 
 def form(request):
-    return HttpResponse('<h1>Hello world</h1>')
+    return HttpResponse('<h1>Hello django</h1>')
